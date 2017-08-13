@@ -1,0 +1,66 @@
+
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+
+}
+
+body {
+	background-color: powderblue;
+	
+}
+
+h1 {
+	border: 20px solid powderblue;
+	background-color: orange;
+	width: 25%;
+	margin: 25px;
+	padding: 25px;
+}
+#header{
+	font-size: 40px;
+}
+
+.crystalImage {
+	height: 111px;
+	margin-left: 10px;
+	width: 5%;
+
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#instructions {
+
+	border: 1px solid beige;
+	background-color: beige;
+	width: 25%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#guessingNumber {
+
+	padding-bottom: 25px;
+	padding-top: 25px;
+	background-color: beige;
+	width: 25%;
+}
+
+#scoreboard {
+	border: 2px solid beige;
+	width: 25%;
+	background-color: beige;
+	margin-top: 25px;
+}
+#totalScore {
+	width: 25%;
+	background-color: beige;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
